@@ -21,9 +21,11 @@ A lightweight, dark-themed Markdown viewer for Windows built with WPF and WebVie
 
 ## Screenshots
 
-*Open a folder, pick a Markdown file, and view it instantly:*
+Render markdown
+![Screenshot](docs/BasicScreenshot.png)
 
-<!-- Add a screenshot here, e.g.: ![Screenshot](docs/screenshot.png) -->
+Render Mermaid Diagrams
+![Screenshot](docs/Screenshot1-mermaid.png)
 
 ## Prerequisites
 
