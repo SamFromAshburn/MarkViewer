@@ -14,7 +14,7 @@
 
   <ItemGroup>
     <PackageReference Include="Markdig" Version="0.45.0" />
-    <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.3800.47" />
+    <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.3856.49" />
   </ItemGroup>
 
   <ItemGroup>
